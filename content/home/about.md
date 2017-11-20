@@ -10,31 +10,34 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Data Science Education",
+    "Functional Programming",
+    "Machine Learning",
+    "Generalized Fiducial Inference"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "PhD in Statistics"
+  institution = "Colorado State University"
   year = 2008
+
+[[education.courses]]
+  course = "MS in Statistics"
+  institution = "Colorado State University"
+  year = 2005
+
+[[education.courses]]
+  course = "BS in Mathematics"
+  institution = "Mankato State University"
+  year = 1993
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Todd Iverson joined the Winona State faculty as an assistant professor of
+statistics and data science in 2016.  His primary interest is teaching
+programming to data scientists, in particular functional and distributed
+programming in Python and Scala.  His other scholarly interests include machine
+learning and generalized fiducial inference.

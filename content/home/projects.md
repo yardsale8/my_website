@@ -29,7 +29,7 @@ filter_default = 0
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
+  name = "tabletoolz.py"
   tag = ".deep-learning"
 
 [[filter]]
